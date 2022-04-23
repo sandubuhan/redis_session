@@ -1,0 +1,4 @@
+redis_session\demo\config\RedisSessionConfiguration.class
+redis_session\demo\config\CookieSerializerConfiguration.class
+redis_session\demo\DemoApplication.class
+redis_session\demo\web\IndexRestController.class
