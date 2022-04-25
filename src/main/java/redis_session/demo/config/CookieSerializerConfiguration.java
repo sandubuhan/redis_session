@@ -24,7 +24,7 @@ public class CookieSerializerConfiguration {
         defaultCookieSerializer.setCookieName("SESSION");
 
         // 域，这允许跨子域共享cookie，默认设置是使用当前域。
-//        defaultCookieSerializer.setDomainName("xuxiaowei.com.cn");
+        defaultCookieSerializer.setDomainName("com.mlg");
 
         // Cookie的路径。
         defaultCookieSerializer.setCookiePath("/");
